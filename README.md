@@ -1,3 +1,10 @@
+# A ChatApp Frontend built using Socket.IO
+
+### Techs used -> ReactJS, Socket.IO-Client
+
+## Author - Shouvik Bajpayee
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
